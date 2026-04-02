@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://exampixl.com/</loc><priority>1.0</priority><changefreq>weekly</changefreq></url>
+  <url><loc>https://exampixl.com/image/exam-photo</loc><priority>0.95</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/image/signature-canvas</loc><priority>0.9</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/compress</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/merge</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/split</loc><priority>0.85</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/to-word</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/to-jpg</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/from-jpg</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/rotate</loc><priority>0.75</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/protect</loc><priority>0.75</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/unlock</loc><priority>0.75</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/watermark</loc><priority>0.75</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/organize</loc><priority>0.75</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/page-numbers</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/remove-pages</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/sign</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/to-text</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/pdf/from-word</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/image/compress</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/image/resize</loc><priority>0.8</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/image/convert</loc><priority>0.75</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/image/remove-bg</loc><priority>0.75</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/image/crop</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/image/to-pdf</loc><priority>0.7</priority><changefreq>monthly</changefreq></url>
+  <url><loc>https://exampixl.com/contact</loc><priority>0.5</priority><changefreq>monthly</changefreq></url>
+</urlset>
