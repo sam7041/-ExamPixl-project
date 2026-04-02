@@ -13,7 +13,7 @@
 50+ free PDF and image tools that run entirely in your browser.  
 No uploads. No account. No server. Just open and use.
 
-[Live Demo](https://exampixl.com) · [Report a Bug](https://github.com/sam7041/exampixl/issues) · [Request a Feature](https://github.com/sam7041/exampixl/issues)
+[Live Demo]([https://exampixl.com](https://exampixl.vercel.app/)) · [Report a Bug](https://github.com/sam7041/exampixl/issues) · [Request a Feature](https://github.com/sam7041/exampixl/issues)
 
 ![ExamPixl Tools Preview](Image%201.png)
 
