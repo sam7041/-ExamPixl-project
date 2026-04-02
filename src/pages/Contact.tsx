@@ -90,20 +90,9 @@ export default function Contact() {
             transition={{ delay: 0.1 }}
             className="bg-gradient-to-br from-white to-slate-50 rounded-3xl p-8 border border-slate-200 shadow-lg shadow-slate-300/20"
           >
-            <h3 className="text-xs font-black text-slate-600 uppercase tracking-[0.2em] mb-8">Direct Contact</h3>
-            <div className="flex items-center gap-5 mb-8">
-              <div className="w-14 h-14 rounded-2xl bg-brand-100 text-brand-700 flex items-center justify-center flex-shrink-0 shadow-md">
-                <Mail size={28} strokeWidth={1.5} />
-              </div>
-              <div>
-                <p className="text-xs font-bold text-slate-600 uppercase tracking-wider">Email Us</p>
-                <a href="mailto:exampixl590@gmail.com" className="text-sm font-black text-slate-900 hover:text-brand-600 transition-colors">
-                  exampixl590@gmail.com
-                </a>
-              </div>
-            </div>
+            <h3 className="text-xs font-black text-slate-600 uppercase tracking-[0.2em] mb-8">Get in Touch</h3>
             <p className="text-sm text-slate-600 leading-relaxed font-medium">
-              We typically respond within 24-48 hours. For urgent issues, please use the form for faster categorization.
+              Fill out the form and we'll get back to you as soon as possible. We typically respond within 24-48 hours. For urgent issues, please mark it clearly in your message.
             </p>
           </motion.div>
         </div>
